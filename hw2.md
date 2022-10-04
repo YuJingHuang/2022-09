@@ -1,6 +1,6 @@
 ## (1) PERTCPM圖
 ---
-![PERTCPM](PERTCPM C107118215.png "PERT/CPM圖")
+![PERTCP M](PERTCPM C107118215.png "PERT/CPM圖")
 ---
 ## (2) 甘特圖
 ![甘特](甘特C107118215.png "甘特圖")
